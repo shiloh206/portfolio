@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "أهلاً :)",
+      "description": "👋 انا احمد. أنا مطور ويب طموح. لدي حوالي 3 سنوات تنتهي في مجال تكنولوجيا المعلومات ، حيث قضيت الكثير من الوقت في التصوير. أحب التكنولوجيا وأرغب في مواصلة النمو في هذه الصناعة.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "المشاريع",
+        "projects": "المشاريع",
+        "skills": "مهارات",
+        "experience": "خبرة"
       }
     },
     "projects": [
